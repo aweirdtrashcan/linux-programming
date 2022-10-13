@@ -1,1 +1,1 @@
-# linux-programming
+Just some code i write to learn Linux Programming =)
